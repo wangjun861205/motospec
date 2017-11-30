@@ -1,0 +1,36 @@
+Processor error:2017/11/30 09:09:02 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:09:02 Adler Adler MB MB 150(1953 - 1954) has no spec table
+Processor error:2017/11/30 09:09:16 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:09:16 Adler Adler MB MB 250 RS(1953 - 1954) has no spec table
+Processor error:2017/11/30 09:09:40 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:09:40 Adler Adler M M 125(1952 - 1956) has no spec table
+Processor error:2017/11/30 09:10:23 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:10:23 AEON AEON Minikolt Minikolt 50(2012 - Present) has no spec table
+Processor error:2017/11/30 09:12:38 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:12:38 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:12:38 AERMACCHI AERMACCHI Ala Verde Ala Verde(1959 - 1972) has no spec table
+Processor error:2017/11/30 09:12:58 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:14:50 Get https://www.autoevolution.com/moto/ajp-pr5r-250-enduro-2015.html: read tcp 127.0.0.1:56504->127.0.0.1:44625: read: connection reset by peer
+Processor error:2017/11/30 09:14:50 AJP AJP PR PR5R 250 Enduro(2015 - 2016) has no spec table
+Processor error:2017/11/30 09:33:05 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:33:05 APRILIA APRILIA Dorsoduro Dorsoduro 1200(2010 - 2011) has no spec table
+Processor error:2017/11/30 09:37:22 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:37:22 APRILIA APRILIA RSV RSV Mille R Factory(2003 - 2004) has no spec table
+Processor error:2017/11/30 09:38:30 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:38:30 APRILIA APRILIA RSV RSV Mille(2001 - 2002) has no spec table
+Processor error:2017/11/30 09:39:51 APRILIA APRILIA RSV RSV Mille(1999 - 2000) has no spec table
+Processor error:2017/11/30 09:39:59 Get https://www.autoevolution.com/moto/aprilia-rsv-mille-r-1999.html: read tcp 127.0.0.1:58166->127.0.0.1:44625: read: connection reset by peer
+Processor error:2017/11/30 09:39:59 APRILIA APRILIA RSV RSV Mille R(1999 - 2000) has no spec table
+Processor error:2017/11/30 09:40:13 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:40:13 APRILIA APRILIA RSV RSV Mille SP(1999 - 2000) has no spec table
+Processor error:2017/11/30 09:41:30 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:41:30 APRILIA APRILIA Caponord ETV 1000 Caponord (2007 - 2008) has no spec table
+Processor error:2017/11/30 09:41:48 Get https://www.autoevolution.com/moto/aprilia-etv-1000-caponord-2006.html: read tcp 127.0.0.1:58286->127.0.0.1:44625: read: connection reset by peer
+Processor error:2017/11/30 09:41:48 APRILIA APRILIA Caponord ETV 1000 Caponord (2006 - 2007) has no spec table
+Processor error:2017/11/30 09:41:56 Get https://www.autoevolution.com/moto/aprilia-etv-1000-caponord-2005.html: read tcp 127.0.0.1:58294->127.0.0.1:44625: read: connection reset by peer
+Processor error:2017/11/30 09:41:56 APRILIA APRILIA Caponord ETV 1000 Caponord (2005 - 2006) has no spec table
+Processor error:2017/11/30 09:42:30 net/http: request canceled (Client.Timeout exceeded while reading body)
+Processor error:2017/11/30 09:42:30 APRILIA APRILIA Caponord ETV 1000 Caponord (2004 - 2005) has no spec table
+Processor error:2017/11/30 09:44:43 Get https://www.autoevolution.com/moto/aprilia-mana-850-2009.html: EOF
+Processor error:2017/11/30 09:44:43 APRILIA APRILIA Mana Mana 850(2009 - 2010) has no spec table
+Processor error:2017/11/30 09:47:29 APRILIA APRILIA RS RS 125 Nero(2006 - 2007) has no spec table
